@@ -1,0 +1,6 @@
+UPDATE ja_activity_log SET old_activity_code = '13' WHERE ID = '1';
+UPDATE ja_activity_log SET old_activity_code = '13' WHERE ID = '2';
+UPDATE ja_activity_log SET old_activity_code = '15' WHERE ID = '3';
+UPDATE ja_activity_log SET old_activity_code = '14' WHERE ID = '4';
+UPDATE ja_activity_log SET old_activity_code = '14' WHERE ID = '5';
+UPDATE ja_activity_log SET old_activity_code = '14' WHERE ID = '6';
